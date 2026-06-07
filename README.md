@@ -1,6 +1,6 @@
 # London Cyclist — Demo App
 
-!(assets/images/app-captures.png)
+![screengrabs of 4 app screens](assets/images/app-captures.png) 
 
 ## File structure
 
